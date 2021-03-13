@@ -10,4 +10,11 @@
 ### Challenges
  [Article preview component](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
  
- [Article preview component](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
+ [Profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
+ 
+ [Single price grid component](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)
+ 
+ [REST Countries API with color theme switcher](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca)
+  
+ [Base Apparel coming soon page](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0)
+  
