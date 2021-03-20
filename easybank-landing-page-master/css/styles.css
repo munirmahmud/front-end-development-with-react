@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* global selector */
+}
+
+body {
+    font-family: 'Public Sans', sans-serif;
+    font-size: 18px;
+    overflow-x: hidden;
+}
+
+.h-100 {
+    height: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    width: 1170px;
+    margin: auto;
+    height: 100%;
+}
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header {
+    background-color: white;
+    height: 60px;
+    z-index: 1;
+    position: relative;
+}
+.navbar {
+    display: flex;
+    list-style-type: none;
+}
+.navitem {
+    padding: 0 10px;
+}
+.navlink {
+    color: #555;
+}
+
+.btn {
+    color:hsl(0, 0%, 98%);
+    font-size: 18px;
+    background-color: hsl(136, 65%, 51%);
+    border-radius: 50px;
+    padding: 6px 22px;
+}
+
+/* Hero section */
+.hero {
+    background-color: hsl(0, 0%, 98%);
+    height: 60vh;
+    position: relative;
+}
+.hero-row {
+    height: 100%;
+}
+.hero-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    width: 39%;
+    position: absolute;
+}
+
+.hero-bg {
+    background-image: url('../images/bg-intro-desktop.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+    position: absolute;
+    right: -181px;
+    width: 73%;
+    height: 78%;
+}
+.image_mockups {
+    position: absolute;
+    width: 420px;
+    right: 150px;
+    top: -30px;
+}
+
+.choose {
+    background-color: hsl(136, 65%, 51%);
+    padding: 150px 0;
+}
+.choose-row {
+    display: flex;
+    flex-direction: column;
+}
+.heading {
+    margin-bottom: 30px;
+}
+
+.boxwrapepr  {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.box {
+    width: 25%;
+}
