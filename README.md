@@ -22,6 +22,7 @@
  ## Day 4
 ### JavaScript
   - Variables and Statements
+  
   Different ways to declare variables
   
   Scoping
