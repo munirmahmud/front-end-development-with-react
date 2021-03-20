@@ -17,4 +17,17 @@
  [REST Countries API with color theme switcher](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca)
   
  [Base Apparel coming soon page](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0)
+ 
+ 
+ ## Day 4
+### JavaScript
+  - Variables and Statements
+  - Code Quality Tooling with Prettier and ESLint
+  - Types - Introduction
+  - Types - Strings
+  - Types - Numbers
+  - Types - Objects
+  - Types - null and undefined
+  - Types - Booleans and Equality
+  
   
