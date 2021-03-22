@@ -30,11 +30,15 @@
   Convention 
   
   - Code Quality Tooling with Prettier and ESLint
-  - Types - Introduction
   - Types - Strings
   - Types - Numbers
   - Types - Objects
+
+
+ ## Day 5
   - Types - null and undefined
   - Types - Booleans and Equality
+  - Functions
+  - Custom Functions - (arguments, parameters)
   
   
