@@ -1,0 +1,8 @@
+.completed {
+  text-decoration: line-through;
+  color: #ddd;
+}
+
+.delete {
+  cursor: pointer;
+}
